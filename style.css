@@ -2,7 +2,7 @@
     font-family: 'Helvetica';
     font-size: 22px;
     color: seashell;
-    background-color: black;
+    background-color: rgb(35, 33, 33);
     opacity: 0.9;
     text-align: center;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    padding: 0 20px;
+    padding: 100px 20px;
 }
 
 /* Navigation */
